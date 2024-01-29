@@ -1,0 +1,48 @@
+@import "https://cdnjs.cloudflare.com/ajax/libs/modern-normalize/2.0.0/modern-normalize.css";
+
+*, *:before, *:after {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    width: 100%;
+    max-width: 1676px;
+    margin: 0 auto;
+    padding-left: 50px;
+    padding-right: 50px;
+
+    @media (max-width: 1250px) {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+    @media (max-width:768px) {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+}
+
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+button,
+input {
+    outline: none !important;
+    padding: 0;
+    margin: 0;
+}
+
+button {
+    border: 0;
+    background: transparent;
+    cursor: pointer;
+    transition: background-color .3s;
+}

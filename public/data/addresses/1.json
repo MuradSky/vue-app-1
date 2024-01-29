@@ -1,0 +1,102 @@
+{
+  "id": 1,
+  "name": "Санкт-Петербург",
+  "hints": [
+    {
+      "id": 1,
+      "name": "Volkswagen г. Санкт-Петербург",
+      "address": "Московский проспект, 154, Санкт-Петербург, 196105",
+      "time": "Пн-Пт 9:00 – 18:00, Сб-Вс – Выходной",
+      "phone": "+7 (812) 416-90-00",
+      "email": "opt@etsp.ru",
+      "page_link": "",
+      "map_route": "",
+      "image_url": "https://images.pexels.com/photos/326055/pexels-photo-326055.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "shop_type": "branches"
+    },
+    {
+      "id": 2,
+      "name": "Лукойл г. Санкт-Петербург",
+      "address": "Благодатная улица, 10А, Санкт-Петербург, 196128",
+      "time": "Пн-Пт 9:00 – 19:00, Сб-Вс 9:00 – 18:00",
+      "phone": "+7 (812) 416-90-00",
+      "email": "opt@etsp.ru",
+      "page_link": "",
+      "map_route": "",
+      "image_url": "https://images.pexels.com/photos/326055/pexels-photo-326055.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "shop_type": "regional-sales-representatives"
+    },
+    {
+      "id": 3,
+      "name": "Car Service г. Санкт-Петербург",
+      "address": "Ленинградское шоссе, 17В, Коммунар, Гатчинский район, Ленинградская область",
+      "time": "Пн-Пт 9:00 – 19:00, Сб-Вс 9:00 – 16:00",
+      "phone": "+7 (812) 416-90-00",
+      "email": "opt@etsp.ru",
+      "page_link": "",
+      "map_route": "",
+      "image_url": "https://images.pexels.com/photos/326055/pexels-photo-326055.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "shop_type": "track-service-retail-chain-stores"
+    },
+    {
+      "id": 4,
+      "name": "Domino г. Санкт-Петербург",
+      "address": "Приозерское шоссе, 31, деревня Лупполово, Юкковское сельское поселение, Всеволожский район, Ленинградская область, 188653",
+      "time": "Пн-Пт 9:00 – 18:00, Сб-Вс – Выходной",
+      "phone": "+7 (812) 416-90-00",
+      "email": "opt@etsp.ru",
+      "page_link": "",
+      "map_route": "",
+      "image_url": "https://images.pexels.com/photos/326055/pexels-photo-326055.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "shop_type": "store-addresses-in-other-regions"
+    },
+    {
+      "id": 5,
+      "name": "Хавейл Лахта  г. Санкт-Петербург",
+      "address": "Лахтинский проспект, 10, Санкт-Петербург, 197229",
+      "time": "Пн-Пт 9:00 – 18:00, Сб-Вс – Выходной",
+      "phone": "+7 (812) 416-90-00",
+      "email": "opt@etsp.ru",
+      "page_link": "",
+      "map_route": "",
+      "image_url": "https://images.pexels.com/photos/326055/pexels-photo-326055.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "shop_type": "branches"
+    },
+    {
+      "id": 6,
+      "name": "Вардек г. Санкт-Петербург",
+      "address": "Европейский проспект, 13к2, Кудрово, Заневское городское поселение, Всеволожский район, Ленинградская область, 188689",
+      "time": "Пн-Пт 9:00 – 18:00, Сб-Вс – Выходной",
+      "phone": "+7 (812) 416-90-00",
+      "email": "opt@etsp.ru",
+      "page_link": "",
+      "map_route": "",
+      "image_url": "https://images.pexels.com/photos/326055/pexels-photo-326055.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "shop_type": "regional-sales-representatives"
+    },
+    {
+      "id": 7,
+      "name": "ГАЗ Сервис № 1 г. Санкт-Петербург",
+      "address": "Магистральная улица, 9, промышленная зона Пески, Аннинское городское поселение, Ломоносовский район, Ленинградская область",
+      "time": "Пн-Пт 9:00 – 19:00, Сб-Вс 9:00 – 16:00",
+      "phone": "+7 (812) 416-90-00",
+      "email": "opt@etsp.ru",
+      "page_link": "",
+      "map_route": "",
+      "image_url": "https://images.pexels.com/photos/326055/pexels-photo-326055.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "shop_type": "track-service-retail-chain-stores"
+    },
+    {
+      "id": 8,
+      "name": "Киришиавтосервис г. Санкт-Петербург",
+      "address": "Разметелевская улица, 63В, деревня Разметелево, Колтушское городское поселение, Всеволожский район, Ленинградская область",
+      "time": "Пн-Пт 9:00 – 18:00, Сб-Вс – Выходной",
+      "phone": "+7 (812) 416-90-00",
+      "email": "opt@etsp.ru",
+      "page_link": "",
+      "map_route": "",
+      "image_url": "https://images.pexels.com/photos/326055/pexels-photo-326055.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "shop_type": "store-addresses-in-other-regions"
+    }
+  ]
+}
